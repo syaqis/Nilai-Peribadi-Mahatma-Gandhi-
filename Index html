@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nilai-Nilai Mahatma Gandhi</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #2e7d32;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    .container {
+      padding: 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    .nilai {
+      background-color: white;
+      margin-bottom: 15px;
+      padding: 15px;
+      border-left: 5px solid #2e7d32;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    .nilai h2 {
+      margin-top: 0;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Nilai-Nilai Mahatma Gandhi</h1>
+  </header>
+  <div class="container">
+    <div class="nilai">
+      <h2>1. Ahimsa (Tanpa Kekerasan)</h2>
+      <p>Gandhi sangat menekankan konsep tanpa kekerasan dalam tindakan, kata-kata, dan pemikiran. Beliau percaya bahawa perubahan sejati hanya boleh dicapai tanpa kekerasan.</p>
+    </div>
+    <div class="nilai">
+      <h2>2. Satya (Kebenaran)</h2>
+      <p>Gandhi menegaskan pentingnya bercakap benar dan hidup dengan kejujuran. Kebenaran dianggap sebagai prinsip utama dalam semua aspek kehidupan.</p>
+    </div>
+    <div class="nilai">
+      <h2>3. Swaraj (Kebebasan Diri)</h2>
+      <p>Beliau memperjuangkan kebebasan dari segi politik dan juga kebebasan individu untuk berdikari dalam kehidupan harian.</p>
+    </div>
+    <div class="nilai">
+      <h2>4. Kesederhanaan</h2>
+      <p>Gandhi hidup secara sederhana dan menentang kemewahan yang berlebihan. Ini menunjukkan pentingnya kerendahan hati dan hidup seadanya.</p>
+    </div>
+    <div class="nilai">
+      <h2>5. Ketabahan dan Kesabaran</h2>
+      <p>Dalam perjuangannya menentang penjajah, beliau menunjukkan ketabahan dan kesabaran yang tinggi walaupun menghadapi pelbagai rintangan.</p>
+    </div>
+    <div class="nilai">
+      <h2>6. Toleransi dan Kasih Sayang</h2>
+      <p>Gandhi sangat menghormati semua agama dan bangsa, dan menggalakkan perpaduan serta kasih sayang sesama manusia.</p>
+    </div>
+    <div class="nilai">
+      <h2>7. Khidmat kepada masyarakat</h2>
+      <p>Beliau percaya bahawa berbakti kepada orang lain adalah cara terbaik untuk mencapai kebaikan dalam diri dan masyarakat.</p>
+    </div>
+  </div>
+</body>
+</html>
